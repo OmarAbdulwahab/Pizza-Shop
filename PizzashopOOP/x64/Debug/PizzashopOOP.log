@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\2021\My codes\PizzashopOOP\PizzashopOOP\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PizzashopOOP.vcxproj -> D:\2021\My codes\PizzashopOOP\x64\Debug\PizzashopOOP.exe
